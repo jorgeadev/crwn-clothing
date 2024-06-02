@@ -6,6 +6,7 @@
 		"@testing-library/jest-dom": "^5.16.2",
 		"@testing-library/react": "^12.1.4",
 		"@testing-library/user-event": "^13.5.0",
+		"async": "^3.2.5",
 		"decode-uri-component": "^0.4.1",
 		"json5": "^2.2.3",
 		"loader-utils": "^3.2.2",
